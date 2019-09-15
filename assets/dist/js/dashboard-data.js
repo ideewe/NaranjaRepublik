@@ -17,12 +17,12 @@ $(document).ready(function(){
 $(window).on("load",function(){
 	window.setTimeout(function(){
 		$.toast({
-			heading: 'Welcome to Snoopy',
-			text: 'Use the predefined ones, or specify a custom position object.',
-			position: 'bottom-left',
+			heading: 'Bienvenido',
+			text: 'Sistema para el control de la industria creativa en Honduras.',
+			position: 'bottom-right',
 			loaderBg:'#e6b034',
 			icon: 'success',
-			hideAfter: 3500, 
+			hideAfter: 5500, 
 			stack: 6
 		});
 	}, 3000);

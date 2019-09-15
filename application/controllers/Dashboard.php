@@ -13,13 +13,7 @@ class Dashboard extends CI_Controller {
 
 	public function index()
 	{
-		//$this->load->view('layouts/header');
-		//$this->load->view('layouts/aside');
 		$this->load->view('admin/dashboard');
-		//$this->load->view('admin/bar');
-		//$this->load->view('admin/messagebar');
-		//$this->load->view('layouts/rightsidebar');
-		//$this->load->view('layouts/footer');
     }
 
     

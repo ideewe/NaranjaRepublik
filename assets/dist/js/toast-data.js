@@ -5,8 +5,8 @@ $(document).ready(function() {
 	"use strict";
 	
 	$.toast({
-		heading: 'Welcome to snoopy',
-		text: 'Use the predefined ones, or specify a custom position object.',
+		heading: 'Bienvenido',
+		text: 'Sistema para el control de la industria creativa en Honduras.',
 		position: 'top-right',
 		loaderBg:'#fec107',
 		icon: 'success',
@@ -48,8 +48,8 @@ $(document).ready(function() {
         $.toast().reset('all');
 		$("body").removeAttr('class');
 		$.toast({
-            heading: 'Welcome to snoopy',
-            text: 'Use the predefined ones, or specify a custom position object.',
+            heading: 'Bienvenido',
+			text: 'Sistema para el control de la industria creativa en Honduras.',
             position: 'top-right',
             loaderBg:'#fec107',
             icon: 'success',

@@ -614,8 +614,8 @@ var echartsConfig = function() {
 $(window).on("load",function(){
 	window.setTimeout(function(){
 		$.toast({
-			heading: 'Welcome to Snoopy',
-			text: 'Use the predefined ones, or specify a custom position object.',
+			heading: 'Bienvenido',
+			text: 'Sistema para el control de la industria creativa en Honduras.',
 			position: 'bottom-left',
 			loaderBg:'#e6b034',
 			icon: 'success',
